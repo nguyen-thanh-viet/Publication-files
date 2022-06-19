@@ -1,0 +1,670 @@
+cluster  0
+=> more stage
+----------------------------------------------------------------------
+cluster  1
+=> reduction gearbox assembly
+=> hydraulic end assembly
+=> torsional vibration monitoring
+=> self power-generated bearing module
+=> box-type transformer
+=> shock proof container
+=> regenerative burner combustion system
+=> regenerative combustion system
+=> deflection arc
+=> acceleration sensor
+=> rectifier circuit
+=> resistive leakage current
+=> humidity sensor
+=> brake wear
+=> brake mass
+=> multiple fluid
+=> individual piston assembly
+=> multiple fluid end
+=> more low-pressure fluid mixture feed unit
+=> fracking system
+----------------------------------------------------------------------
+cluster  2
+=> power plant
+=> power transformer
+=> mmc power device
+=> pumped storage power plant
+=> power capacitor
+=> power transformation equipment
+=> power system
+=> power grid
+=> power supply device
+=> power transmission
+=> power distribution network
+=> power grid device
+=> electric power company
+=> self-power generation module
+=> power converter
+=> power distribution network operation
+=> auxiliary power unit
+=> power supply
+=> power switch
+=> power consumption
+=> housing exterior;- power supply
+=> power supply means,-
+=> power line
+=> power management
+=> power generation
+=> respective power source
+=> power usage
+=> power generation environment
+=> power source
+----------------------------------------------------------------------
+cluster  3
+=> management application module
+=> enterprise server
+=> software configuration
+=> management application
+=> application layer
+=> associated machine executable code
+=> virtual simulation
+=> design data
+=> theoretical model
+=> design operation
+=> software program
+----------------------------------------------------------------------
+cluster  4
+=> preventive maintenance construction method
+=> physical performance evaluation unit
+=> mmc preventive maintenance work
+=> on-demand maintenance
+=> equipment management
+=> maintenance work management module
+=> maintenance cost
+=> maintenance plan
+=> maintenance work
+=> maintenance capability
+=> maintenance strategy
+=> device maintenance plan
+=> determined maintenance decision order
+=> condition-based maintenance
+=> maintenance decision order
+=> maintenance period
+=> maintenance decision
+=> equipment maintenance plan
+=> equipment maintenance decision
+=> pre-constructed equipment risk model
+=> maintenance plan risk information
+=> maintenance time period
+=> maintenance process
+=> maintenance recommendation
+=> maintenance information
+----------------------------------------------------------------------
+cluster  5
+=> operation risk education
+=> investment plan
+=> risk evaluation unit
+=> risk assessment unit
+=> risk simulation
+=> operation risk assessment project
+=> risk linkage management
+=> risk analysis
+=> risk control measure
+----------------------------------------------------------------------
+cluster  6
+=> wireless communication
+=> wireless transmission module
+=> public gprs wireless network
+=> wireless technology
+=> user smartphone subsystem
+=> wireless communication interface
+=> more wireless peripheral device
+=> wireless gateway device
+=> wireless communication connection
+=> wireless tracking system
+=> wireless tag
+=> rfid-rf wireless gateway
+=> rfid tag
+=> rfid-rf tag
+=> rfid circuit
+=> short-range wireless interface
+=> mobile data collector
+----------------------------------------------------------------------
+cluster  7
+=> emergency rescue work
+=> condition monitoring device
+=> behavior detection unit
+=> condition monitoring
+=> behavior information
+=> control unit
+=> on-line condition monitoring
+=> line monitoring
+=> monitoring device
+=> monitoring system
+=> monitoring apparatus
+=> mitigation system
+=> state monitoring system
+=> condition monitoring system
+=> monitoring terminal
+=> machine monitoring unit
+=> monitoring asset
+=> security platform
+=> platform protection
+=> status monitoring
+=> tracking system
+=> generative sensing system
+----------------------------------------------------------------------
+cluster  8
+=> analytical gap
+=> prescribed threshold value
+=> differential waveform
+=> mobile run
+=> travel path
+=> line guide apparatus
+=> current measuring point
+=> sampling rate
+=> time sequence
+=> resistance measurement
+=> measurement loop
+=> resting run
+=> yoke frame
+=> angle switch
+=> time series
+=> tape node
+----------------------------------------------------------------------
+cluster  9
+=> electric signal connection
+=> electric energy quality
+=> electrical machine
+=> electrical energy storage unit
+=> electrical vehicle battery
+=> electrical control system
+=> dc-link capacitor
+=> output voltage reference
+=> electrical indicator conductor
+=> electric power parameter
+=> electric power
+=> electric signal
+=> power signal
+=> dc supply voltage
+=> electric motor
+=> ac main power
+=> electrical indicating conductor
+=> electric variable
+=> electrical utility structure
+=> current-carrying electrical component
+=> electrical energy source
+=> electrical variable
+=> electrical energy
+=> electrical transmission system
+=> electrical energy storage
+----------------------------------------------------------------------
+cluster  10
+=> preventive diagnosis system
+=> diagnosis device further monitor
+=> diagnosis device monitor
+=> diagnosis device
+=> diagnosis module
+=> diagnosis system
+=> equipment state diagnosis unit
+=> condition diagnosis unit
+=> diagnosis report
+=> self-diagnosis control method
+=> internal diagnostic information
+=> diagnostic parameter
+----------------------------------------------------------------------
+cluster  11
+=> mmc dynamic redundancy preventive maintenance method
+=> modbus tcp communication
+=> cloud platform intelligent monitoring unit
+=> online operation monitoring
+=> ev bldc motor condition monitoring subsystem
+=> network resource management
+=> network resource management component
+=> driver element
+=> network service
+----------------------------------------------------------------------
+cluster  12
+=> industrial power grid intelligent operation
+=> machine learning-based pump turbine
+=> smart power grid
+=> whole intelligent power grid
+=> intelligent power grid
+=> smart plant three-dimensional piping model
+=> online plant optimizer
+----------------------------------------------------------------------
+cluster  13
+=> health index
+=> health state
+=> apu health concern
+=> cloud-based health monitoring system
+=> health management method
+=> machine health management
+=> health status
+----------------------------------------------------------------------
+cluster  14
+=> hybrid mmc capacitor reliability evaluation model
+=> power grid risk
+=> electricity theft prevention management
+=> electricity larceny prevention management
+=> power distribution network fault
+=> power supply risk equipment risk information
+=> power supply risk equipment information
+=> power grid operation risk level
+=> ev battery monitoring subsystem
+=> valve body leakage detection
+=> local power grid fault detection
+=> power source fault prediction
+----------------------------------------------------------------------
+cluster  15
+=> technical field
+=> manual experience
+=> technical fusion
+=> robotic process automation circuit
+=> machine operation
+=> machine emission
+=> automation system
+=> machine readable instruction
+=> industrial iot
+=> mechanical link
+----------------------------------------------------------------------
+cluster  16
+=> full cycle data base
+=> big data platform
+=> big data
+=> big data analysis
+----------------------------------------------------------------------
+cluster  17
+=> various level
+=> oem device specific data
+=> transformation equipment
+=> stator core
+=> inductive circuit
+=> -link capacitor
+=> example system
+=> multiple operation module
+=> platform layer
+=> key node facility
+=> distribution transformer
+=> cluster center
+=> reference transformer
+=> method circuit device system
+=> signal processor
+=> inverter circuit
+=> capacitive intermediate circuit
+=> surges,- electronics
+=> transmission system
+=> generator set
+=> electronic component
+=> digital certificate
+=> processor cause
+=> gear system
+=> example apparatus
+=> generative system
+----------------------------------------------------------------------
+cluster  18
+=> nuclear power emergency diesel generating set
+=> nuclear power plant
+=> nuclear-grade digital instrument control system
+=> water reactor nuclear power station
+=> reactor protection system
+=> nuclear process control system
+----------------------------------------------------------------------
+cluster  19
+=> machine learning model
+=> machine learning
+=> artificial intelligence circuit
+=> self-learning artificial intelligence
+=> self-learning ai classification
+=> artificial intelligence
+----------------------------------------------------------------------
+cluster  20
+=> industrial personal computer
+=> upper computer system
+=> electronic equipment
+=> cloud computing
+=> upper computer management system
+=> data processor
+=> computing system
+=> autonomous vehicle
+=> electronic control unit
+=> computer readable medium
+=> liquid operating system
+=> computer system
+----------------------------------------------------------------------
+cluster  21
+=> present invention
+=> development trend
+=> invented system
+=> startup rate
+=> first waveform
+=> forward market
+=> initial mass
+=> first time period
+=> first security level
+----------------------------------------------------------------------
+cluster  22
+=> operation risk early warning
+=> current detection part
+=> trigger criterion
+=> early warning
+=> predictive model
+=> three-tier architecture system
+=> present disclosure
+=> first control signal
+=> indicating-element signal
+=> direct method
+=> interrogation signal
+=> detected hazard
+=> alert signal
+=> arrival processor
+----------------------------------------------------------------------
+cluster  23
+=> other transaction
+=> other resource
+=> outage mitigation
+=> indirect method
+----------------------------------------------------------------------
+cluster  24
+=> mmc whole-life-cycle reliability evaluation model
+=> continuous operation requirement
+=> energy efficiency real-time monitoring
+=> current operation mode
+=> current operation condition
+=> real-time condition diagnosis
+=> real-time behavior information
+=> instantaneous performance monitoring
+=> direct current
+=> scalable real-time state recognition
+=> associated real-time-key figure
+=> comprehensive control system
+=> common current feed line
+=> current supply line
+----------------------------------------------------------------------
+cluster  25
+=> stationary run
+=> natural number
+----------------------------------------------------------------------
+cluster  26
+=> future maintenance time period
+=> future fault scenario
+=> future location frequency processor
+=> future location
+----------------------------------------------------------------------
+cluster  27
+=> more parameter
+=> more winding
+=> more push rod
+----------------------------------------------------------------------
+cluster  28
+=> second waveform
+=> second switching period
+=> second control signal
+=> second data communication device
+=> second computing device
+----------------------------------------------------------------------
+cluster  29
+=> failure mode
+=> onsite operation accident
+=> failure diagnosis system
+=> equipment fault
+=> fault diagnosis device
+=> fault simulation module
+=> fault generation signal
+=> fault diagnosis
+=> rapid fault diagnosis system
+=> data-driven fault detection
+=> operation fault diagnosis
+=> on-site fault handling
+=> fault condition
+=> fault prediction
+----------------------------------------------------------------------
+cluster  30
+=> non-continuous pv data
+=> disable power flow
+=> disconnect switch
+=> separate current supply line
+=> low power mode interval
+----------------------------------------------------------------------
+cluster  31
+=> data transmission
+=> telecommunication connection
+=> network communication layer
+=> open communication protocol
+=> data source
+=> digital data transmission protocol
+=> packet-based communication protocol
+=> data communication interface
+=> data connection
+=> data communication
+=> communication circuit
+=> communication network
+=> streaming protocol
+=> data acquisition
+----------------------------------------------------------------------
+cluster  32
+=> non-nuclear-grade digital instrument control system platform
+=> non-transitory computer-readable medium
+=> non-transitory processor-readable medium
+----------------------------------------------------------------------
+cluster  33
+=> asset data
+=> financial entity
+=> shipping address
+=> return address
+=> delivery service
+=> respective asset
+=> specimen bin holder
+=> key distribution center
+=> measured value
+=> storage operation
+=> agent flow
+=> distribution system
+----------------------------------------------------------------------
+cluster  34
+=> present invention minimizes excessive preventive maintenance
+=> maintenance efficiency
+=> maintenance quality
+=> healthy condition score
+=> healthy operating signal
+=> maintenance safety
+=> timely maintenance
+=> movable energy chain
+----------------------------------------------------------------------
+cluster  35
+=> entire plunger pump
+=> plunger pump
+=> pump-turbines
+=> pump turbine
+=> valve pipeline system
+=> piston-plunger assembly
+=> quad-quint pump system
+=> pump system
+=> cylinder chamber
+----------------------------------------------------------------------
+cluster  36
+=> geo-location specific solar pv power plant
+=> as-operated solar pv power plant
+=> solar photovoltaic power plant
+=> solar pv power plant
+=> photovoltaic plant
+=> pv power generation
+=> pv plant
+----------------------------------------------------------------------
+cluster  37
+=> wind power transmission system
+=> historical wind turbine failure data
+=> wind energy installation
+=> first wind energy installation
+=> wind speed
+=> wind turbine generator
+----------------------------------------------------------------------
+cluster  38
+=> economic evaluation result
+=> production management personnel
+=> production management system
+=> machine emission energy harvester harvest
+=> production plant
+=> production device
+=> industrial asset
+=> work-order system
+=> process engineering plant
+=> industrial language model
+=> master agent
+----------------------------------------------------------------------
+cluster  39
+=> rail transit power system
+=> entire rail transit system
+=> rail transit system
+=> rail traffic
+----------------------------------------------------------------------
+cluster  40
+=> first current sensor data
+=> first historical sensor data
+=> first data communication device
+=> first electronic control unit
+=> first computing device
+----------------------------------------------------------------------
+cluster  41
+=> magnetic field detection part
+=> knowledge mining technology
+=> pervasive field knowledge mining technology
+----------------------------------------------------------------------
+cluster  42
+=> ubiquitous networking application
+=> ubiquitous network communication application
+----------------------------------------------------------------------
+cluster  43
+=> analytical data
+=> analytical coverage
+=> sample data
+=> reliability evaluation model
+=> operation data analysis
+=> auxiliary decision-making method
+=> decision method
+=> preprocessed operation data
+=> regression prediction model
+=> decision-making analysis system
+=> operation result information
+=> analytics engine
+=> analysis module
+=> input data
+=> self-organizing data collection
+=> data collection operation
+----------------------------------------------------------------------
+cluster  44
+=> power plant owner
+=> power industry field operation risk management
+=> power transformer asset management device
+=> power grid patrol monitoring module
+=> power equipment maintenance plan
+=> industrial power grid
+=> power grid patrol
+=> electrical equipment state maintenance
+=> target power grid
+=> power grid equipment asset management
+=> power grid equipment online monitoring data
+=> pre-constructed power grid risk model
+=> electrical circuit monitoring subsystem
+=> power grid management
+=> integrated mvdc electric hydraulic fracturing system
+----------------------------------------------------------------------
+cluster  45
+=> auxiliary power unit airline maintenance system
+=> aircraft brake wear estimation
+=> brake wear estimation
+----------------------------------------------------------------------
+cluster  46
+=> current sensor data
+=> acoustic sensor
+=> machine emission sensor
+=> sensor component
+=> sensor data
+=> arc sensor
+=> sensor input
+----------------------------------------------------------------------
+cluster  47
+=> optimization algorithm
+=> optimization solution
+----------------------------------------------------------------------
+cluster  48
+=> renewable energy transmission grid connection
+=> energy efficiency information gateway
+=> renewable asset management
+=> renewable energy asset
+=> energy utilization rate
+=> energy guide chain
+=> energy chain
+=> energy emission
+=> energy nd cost optimization
+=> energy source
+=> energy exploration lexicon
+----------------------------------------------------------------------
+cluster  49
+=> determined significance
+=> high-quality operation
+=> intelligent performance evaluation
+=> smart monitoring system
+=> highly-versatile field device
+=> optimum process parameter
+=> valid certificate
+=> intelligent software
+----------------------------------------------------------------------
+cluster  50
+=> meteorological data sample set
+=> plant configuration data
+=> weather sensor
+=> environmental data
+----------------------------------------------------------------------
+cluster  51
+=> natural language recommendation
+=> natural language input unit
+=> natural language output
+----------------------------------------------------------------------
+cluster  52
+=> operation field preventive maintenance plan
+=> field operation risk project ledger
+=> operation field construction
+=> plant build
+----------------------------------------------------------------------
+cluster  53
+=> invention frequency converter
+=> harmonic method
+=> frequency converter
+=> harmonic analysis
+=> radio frequency identifier
+=> rf circuit
+=> radio frequency
+=> frequency band
+----------------------------------------------------------------------
+cluster  54
+=> more sensor
+=> more magnetic coil
+=> more tuning parameter
+=> more apl power switch
+=> more apl field switch
+=> more fuel system
+=> more power generation system
+=> more operating parameter
+=> more security key
+----------------------------------------------------------------------
+cluster  55
+=> boost power
+=> boost power result
+=> surge arrester
+=> temperature increase
+----------------------------------------------------------------------
+cluster  56
+=> light transmitter
+=> fire box
+=> light receiver
+----------------------------------------------------------------------
+cluster  57
+=> electrical digital twin engine
+=> electrical digital twin
+=> ai-driven automatic configuration
+----------------------------------------------------------------------
+cluster  58
+=> state overhaul
+=> state overhauling
+----------------------------------------------------------------------
+cluster  59
+=> outer ring
+=> m subset
+=> apu data
+=> measurement data m
+----------------------------------------------------------------------
